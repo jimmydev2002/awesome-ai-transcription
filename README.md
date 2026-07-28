@@ -204,6 +204,7 @@ Tools and services specifically for podcast transcription.
 | [Podium](https://hello.podium.page) | Podcast to article conversion |
 | [Podsqueeze](https://podsqueeze.com) | AI show notes, timestamps, blog posts from episodes |
 | [Snipd](https://www.snipd.com) | AI-powered podcast highlights and transcripts |
+| [Transcreve BR](https://www.brainiall.com/transcreve/podcast-para-vtt) | Brazilian Portuguese transcription with speaker labels and VTT/SRT export |
 
 ## Medical & Legal Transcription
 
