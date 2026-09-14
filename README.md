@@ -45,6 +45,7 @@ Cloud-based transcription platforms that work in the browser.
 | [AssemblyAI Playground](https://www.assemblyai.com/playground) | English | Free playground for testing AssemblyAI's API | Free |
 | [Deepgram Playground](https://playground.deepgram.com) | 36 | Free playground for testing Deepgram's API | Free |
 | [NovaScribe](https://novascribe.ai) | 100+ | Batch transcription, timestamp export | Freemium |
+| [Instagram Transcript Generator](https://ruanjiange.com/instagram-transcript/) | 99 | Runs entirely in the browser with no file upload, exports TXT and SRT | Free |
 
 ## Speech-to-Text APIs
 
