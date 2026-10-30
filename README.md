@@ -177,6 +177,7 @@ Tools focused on generating and editing subtitles.
 - [Bazarr](https://github.com/morpheus65535/bazarr) - Companion app to Sonarr/Radarr for managing subtitles.
 - [Subliminal](https://github.com/Diaoul/subliminal) - Python library for searching and downloading subtitles.
 - [asbplayer](https://github.com/killergerbah/asbplayer) - Browser-based subtitle player for language learning.
+- [Karaoke Captions](https://karaokecaptions.com/) - Browser-based word-by-word video captions with local Whisper transcription and MP4, SRT and VTT export.
 
 ## Meeting & Collaboration
 
