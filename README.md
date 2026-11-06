@@ -40,6 +40,7 @@ Cloud-based transcription platforms that work in the browser.
 | [Descript](https://www.descript.com) | English | Audio/video editor with built-in transcription, filler word removal | Freemium |
 | [Trint](https://trint.com) | 40+ | Collaborative editor, real-time transcription, API | Paid |
 | [Notta](https://www.notta.ai) | 104 | Meeting recording, real-time transcription, AI summary | Freemium |
+| [OneMira C1](https://onemira.com/products/c1) | 100+ | Standalone AI voice recorder, local AI transcription, speaker diarization, Markdown & [MCP server](https://github.com/onemira-space/onemira-mcp) | $99 one-time ($0/mo subscription) |
 | [Riverside](https://riverside.fm) | 100+ | Recording + transcription, speaker detection, AI show notes | Freemium |
 | [Transkriptor](https://transkriptor.com) | 100+ | Meeting bot, subtitle generation, multi-speaker | Paid |
 | [AssemblyAI Playground](https://www.assemblyai.com/playground) | English | Free playground for testing AssemblyAI's API | Free |
